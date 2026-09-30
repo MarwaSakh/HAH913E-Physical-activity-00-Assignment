@@ -1,4 +1,4 @@
-# HAH913E-Physical-activity-00-Assignment  
+# HAH913E-Physical-activity-00-Assignment_GroupeA  
 ## Main Objective
 The goal of this project is to calculate the **ENMO** (*Euclidean Norm Minus One*), a measure of physical activity intensity,
 then **integrate** it over 10-second, 30-second, and 60-second intervals, and plot the result.
